@@ -10,4 +10,4 @@ Mashruucan waxaan ku dhisay Dashboard casri ah oo isbedbeddela (Interactive Dash
 
 ## 📈 Muuqaalka Dashboard-ka (Dashboard Preview)
 Waxaan ku tusayaa muuqaalka dashboard-ka:
-![Power BI Dashboard]IMG-20260820-WA0001.jpg
+![Power BI Dashboard](IMG-20260820-WA0001.jpg)
