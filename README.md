@@ -9,5 +9,5 @@ Mashruucan waxaan ku dhisay Dashboard casri ah oo isbedbeddela (Interactive Dash
 * **Advanced Visuals:** Isticmaalka Slicers, Bar Charts, iyo Key Performance Indicators (KPIs).
 
 ## 📈 Muuqaalka Dashboard-ka (Dashboard Preview)
-Waxaan ku tusayaa muuqaalka dashboard-ka:
-![Power BI Dashboard](IMG-20260820-WA0001.jpg)
+Waxaan ku tusayaa muuqaalka dashboard-ka
+![Power BI Dashboard](IMG-20260819-WA0004.jpg)
